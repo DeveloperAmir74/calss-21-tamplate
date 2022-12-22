@@ -1,0 +1,15 @@
+.text0{
+    margin-bottom: 15%;
+}
+.center{
+    text-align: center;
+}
+.div1 h3:hover{
+    content: "";
+    color: red;
+    transition: .5s;
+    font-style: italic;
+}
+
+/* <!-- End-project--> */
+
